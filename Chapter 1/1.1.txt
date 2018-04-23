@@ -1,0 +1,14 @@
+CTCI 1.1
+
+I: Design a way to figure out if a String's characters are all unique.
+
+D: The solution looks like a binary response of whether or not the String's characters are unique
+
+E: We can accomplish this by using a Boolean variable that returns a true/false response and implement this in one method or gather the string in one method and use a separate method to determine if the String's characters are unique. Alternatively, the use of a set would be helpful as only unique variables are needed for this problem.
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: A pattern noticed was that a trigger would be needed for every unique character spotted. Another pattern is that since we need to evaluate each character uniquely, we'd have to loop through the solution. 
+	Step 4, 5, 6: Running multiple tests after translating to code identified a few unique instances where the ideas did not ideally transfer to reality. For example, a boolean trigger was initialized to the wrong instance, causing test cases that would've otherwise failed to pass and vise versa.
+
+L: I learned a little bit more about implementing HashSets to identify unique instances inside of strings.

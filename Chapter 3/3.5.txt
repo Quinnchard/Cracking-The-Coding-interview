@@ -1,0 +1,15 @@
+CTCI 3.5
+
+I: Sort a stack with the smallest items on top using a temporary stack
+
+D: The solution looks like an organized stack with elements in ascending order
+
+E: We can accomplish this by trying to use the temporary stack to hold the next variables of the original stack as we pop to see what is inside of them.
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: I noticed no patterns when attempting to solve this problem. 
+
+	Step 4, 5, 6: I did not know where to begin with this problem and ended up turning to the Internet for help in solving the problem.
+
+L: This problem was tough to solve, as I do not remember stacks very well. The solution used was a combination of help from multiple online resources although I still do not completely understand it myself.

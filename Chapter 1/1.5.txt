@@ -1,0 +1,15 @@
+CTCI 1.5
+
+I: Given a "one edit" scenario (a character is added/removed/replaced in a String) and two Strings, write a program to these strings fit the "one edit" scenario.
+
+D: The solution looks like a binary response of whether or not the String's characters were edited only once.
+
+E: We can accomplish this by capitalizing/lowercasing both of the Strings, and compare the length of the Strings. Next, we can iterate through the Strings and determine if the characters are the same in both strings. 
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: A pattern noticed was that since we may need to evaluate each character uniquely, we'd have to loop through the Strings and compare each index to the other. Another pattern noticed was that since these were both Strings that needed to be converted to arrays, a .toCharArray() call could help achieve this. 
+
+	Step 4, 5, 6: In choosing to use the .toCharArray() method in Java, iterating through the Strings to compare the values greatly helped for the Strings which were of the same length. Using a HashSet to compare the elements of Strings of varying lengths helped achieve an accurate (expected) output.
+
+L: I learned that often times, there isn't a one size fits all solution and sometimes, I need to make certain assumptions about a programs expected input, but also counter for the other assumptions by taking into consideration what else can occur.

@@ -1,0 +1,16 @@
+CTCI 3.4
+
+I: Create a Queue Class
+
+D: The solution looks like a class that created a Queue using two stacks
+
+E: We can accomplish this by expanding on the Stacks class we have from our original Node class
+
+A:
+	Step 1 & 2: I drew partial information on a whiteboard to visualize the problem.
+
+	Step 3: I did not notice any patterns.
+
+	Step 4, 5, 6: I did not know where to begin with this problem and ended up working with classmates to solve this problem.
+
+L: I am embarrassed to say that I am a CS major who forgot how to implement Stacks and Queues.

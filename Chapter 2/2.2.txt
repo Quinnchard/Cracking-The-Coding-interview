@@ -1,0 +1,15 @@
+CTCI 2.2
+
+I: Find the nth to last element of a singly linked list 
+
+D: The solution looks like a single response of what the position is
+
+E: We can accomplish this by using a temporary node to help as we shift the order of the linked lists.
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: I noticed no patterns when attempting to solve this problem. 
+
+	Step 4, 5, 6: I decided to iterate though the LinkedList and compare each element's data to the search value and in doing so, am able to find the element with the data.
+
+L: This problem was easier than the previous problem, given that it was a simple looping problem. It was nice to understand a linked list problem.

@@ -1,0 +1,15 @@
+CTCI 2.6
+
+I: Determine if a linked list is a palindrome.
+
+D: The solution looks like an boolean response.
+
+E: We can accomplish this by traversing and reversing the linked list
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: I noticed a pattern in that we would need to iterate through the lists to add their elements.
+
+	Step 4, 5, 6: I did not know where to begin with this problem and ended up working with classmates to solve this problem.
+
+L: This problem is instilling in me that I need to consider reviewing linked lists.

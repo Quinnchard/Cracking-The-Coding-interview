@@ -1,0 +1,15 @@
+CTCI 2.1
+
+I: Remove duplicates from an unsorted linked list
+
+D: The solution looks like a linked list rendered in ascending order
+
+E: We can accomplish this by using a temporary node to help as we shift the order of the linked lists.
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: A pattern noticed was that since we'd be using temporary nodes, we would need to loop through the original linked list to create the new list
+
+	Step 4, 5, 6: In choosing to use temporary nodes, and getting stuck on using linked lists, it soon became possible to orient the temporary and head in such a way that it organized the list
+
+L: I was stuck on this problem for a few hours because I haven't used linked lists since my elementary data structures class. It's evident I need to relearn this

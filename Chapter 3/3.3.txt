@@ -1,0 +1,16 @@
+CTCI 3.3
+
+I: Implement a setOfStacks that pushes, pops, and peeks inside of a stack
+
+D: The solution looks like a stack that was implemented from our stack class
+
+E: We can accomplish this by expanding on the Stacks class we have from our original Node class
+
+A:
+	Step 1 & 2: I re-read the problem to attempt to understand what it is asking.
+
+	Step 3: I did not notice any patterns.
+
+	Step 4, 5, 6: I did not know where to begin with this problem and ended up working on a solution of implementing the given Stack class.
+
+L: This problem was really difficult to understand. That is, I do not believe my interpretation of the problem was correct in its implementation.

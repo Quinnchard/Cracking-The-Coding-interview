@@ -1,0 +1,16 @@
+CTCI 1.7
+
+I: Given an NxN Matrix, with each index equaling 4 bytes, rotate it 90 degrees
+
+D: The solution looks like 2D array/matrix, similar to the input; however, the values are rotated 90 degrees on its axis.
+
+E: We can accomplish this by iterating element-by-element in the matrix and replacing/exchanging the values within the array. 
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem. I noticed early on that since this was 4-byte specific, we would be dealing directly with integers.
+
+	Step 3: A pattern noticed was that since we need to iterate through the matrices, it would be best to use a nested for-loop to iterate through the 2D array. 
+
+	Step 4, 5, 6: In choosing to use the nested for-loops, it was straightforward in achieving the desired outcome. One challenge from using the nested for-loops came from determining where exactly in the rotated matrix the value should be replaced to.
+
+L: I learned that the problems can often appear scarier than they actually are. For example, the idea of rotating an image seemed intimidating; however, noting the key features (4 bytes, 2-D matrix), it was evident that the problem was simpler than I initially observed.

@@ -1,0 +1,15 @@
+CTCI 2.3
+
+I: Delete a node in the middle of a singly linked list
+
+D: The solution looks like a liked list without an element inside of the list
+
+E: We can accomplish this by checking to see if a linked list has more than one node and return a true/false response.
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: I noticed no patterns when attempting to solve this problem. 
+
+	Step 4, 5, 6: I decided to begin iterating through the linked list if it was not empty and had at least 3 nodes. If it had at least 3 nodes, I chose to delete the 2nd node. This is because of an assumption made that the middle could be anywhere inside of the list that was not the first element.
+
+L: This problem was tough to conquer because I am still having trouble with linked lists.

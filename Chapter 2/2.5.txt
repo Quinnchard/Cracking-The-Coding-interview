@@ -1,0 +1,15 @@
+CTCI 2.5
+
+I: Reverse add elements in a linked list 
+
+D: The solution looks like an integer response with the amount of numbers as that in the stack.
+
+E: We can accomplish this by traversing the nodes and adding the elements within
+
+A:
+	Step 1 & 2: I wrote down partial information on a whiteboard to visualize the problem.
+	Step 3: I noticed a pattern in that we would need to iterate through the lists to add their elements.
+
+	Step 4, 5, 6: I did not know where to begin with this problem and ended up turning to the Internet for help in solving the problem.
+
+L: This problem was tough to solve, as I do not remember stacks very well. The solution used was a combination of help from classmates although I still do not completely understand it myself.
